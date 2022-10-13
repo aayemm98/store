@@ -1,0 +1,436 @@
+@media (max-width: 1440px) {
+  .container{
+    width: 90%;
+  }
+}
+@media (max-width: 1200px) {
+  #hero .hero .feel--img {
+    margin-left: -288px;
+  }
+  #hero .hero .us .feel--block {
+    left: 405px;
+    top: 618px;
+  }
+  #about {
+    padding-top: 755px;
+  }
+  #hero .hero .us .pro {
+    padding-top: 68px;
+    padding-left: 259px;
+  }
+  #header .navbar--nav {
+    margin: -33px 58px;
+    padding-left: 114px;
+  }
+  #header .navbar--im {
+    margin: 0 -34px;
+  }
+  #global .global .are--first {
+    padding-top: 136px;
+  }
+}
+@media (max-width: 1024px) {
+  #header .navbar .navbar--nav{
+    display: none;
+  }
+  #header .navbar--im {
+    margin: 0 28px;
+  }
+  #header .navbar .hamburger-menu{
+    display:block;
+  }
+  #global .global .are--first {
+    padding-top: 129px;
+  }
+  #hero .hero .us .feel--block {
+    left: 321px;
+    top: 530px;
+  }
+  #hero .hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #hero {
+    padding-top: 76px;
+  }
+  #about {
+    padding-top: 776px;
+  }
+  #hero .hero .us .feel--block {
+    left: 315px;
+    top: 466px;
+  }
+  #global {
+    padding: 0;
+  }
+}
+@media (max-width: 992px) {}
+@media (max-width: 768px) {
+  #about .about .pin {
+    margin: 0 31px 45px;
+  }
+  #about .about .win {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  #global .global .are--first{
+    padding-top: 129px;
+  }
+  #footer .footer--ter__ss--llm {
+    font-size: 11px;
+  }
+  #wer .wer .market--ni {
+    margin: 0 -25px -14px;
+  }
+  #wer .wer .learn--do {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  #hero .hero .us .feel--block {
+    left: 109px;
+    top: 448px;
+  }
+  #hero .hero .us .feel--img {
+    margin-left: -44px;
+    margin-top: 34px;
+  }
+  #hero .hero .us .feel--drone__ima{
+    margin: -434px -80px 111px;
+    width: 90%;
+  }
+  #hero .hero .us .feel .felt {
+    margin-top: -178px;
+    margin-left: 344px;
+  }
+  #footer .footer--ter {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  #wer .wer .learn--do .do--block {
+    margin: 18px;
+  }
+  #wer .wer .dru--title {
+    margin: -138px 55px -20px;
+  }
+}
+@media (max-width: 576px) {
+  #hero .hero .us .feel--block {
+    width: 400px;
+    height: 297px;
+  }
+  #hero .hero .us .pro {
+    padding-top: 80px;
+    padding-left: 57px;
+  }
+  #hero .hero .us .feel--img {
+    margin-left: -4px;
+    margin-top: 34px;
+    width: 90%;
+  }
+  #hero .hero .us .feel--drone__ima {
+    margin: -418px -80px 60px;
+    width: 90%;
+  }
+  #about {
+    padding-top: 445px;
+  }
+  #about .about .win .Планшетых{
+    padding-top: 70px;
+  }
+  #hero .hero .us .feel .felt {
+    margin-top: -158px;
+    margin-left: 191px;
+  }
+  #hero .hero .us .feel--drone__ima {
+    margin: -418px -102px 61px;
+    width: 90%;
+  }
+  #about .about .pin {
+    align-items: center;
+    flex-direction: column;
+  }
+  #about .about .pin--taps {
+    padding: 26px;
+  }
+  #global .global .are--first__img {
+    position: absolute;
+    width: 90%;
+    padding-left: 52px;
+  }
+  #global .global .are--first__icon {
+    padding-top: 21px;
+  }
+  #global .global .are--first__icon {
+    display: none;
+  }
+  #wer .wer .dru--title {
+    margin: -167px 30px 3px;
+  }
+  #wer .wer .market--meet .market--meet__title {
+    padding-left: 35px;
+  }
+  #wer .wer .market--ni__most {
+    display: flex;
+    align-items: center;
+    padding: 12px;
+  }
+  #about .about .win .to--block__car {
+    padding-top: 93px;
+    padding-left: 10px;
+  }
+  #about .about .pin {
+    margin: 0 80px -38px;
+  }
+  #wer .wer .learn--do .do--block {
+    margin-top: 30px;
+  }
+  #wer .wer .market--ni {
+    flex-wrap: wrap;
+    padding: 10px;
+    margin-top: 35px;
+  }
+  #footer .footer--ter {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+}
+@media (max-width: 450px) {
+  #footer .footer--ter__lin {
+    padding: 0 19px;
+  }
+  #global .global {
+    padding-right: 184px;
+  }
+  #wer {
+    padding-top: 169px;
+  }
+  #wer .wer .learn {
+    padding-top: 0;
+  }
+  #wer .wer .learn--do .do--block {
+    padding: 18px;
+  }
+  #wer .wer .market {
+    padding-top: 66px;
+  }
+  #wer .wer .market--ni {
+    flex-direction: column-reverse;
+  }
+  #wer .wer .market--ni__most {
+    display: flex;
+    align-items: center;
+    padding: 22px;
+  }
+  #wer .wer .market .market--meet{
+      padding-left: 32px;
+  }
+  #footer .footer--ter__lin {
+    padding: 0 7px;
+  }
+  #wer .wer .dru--title {
+    margin: -124px 77px 10px;
+  }
+  #wer .wer .market--ni {
+    flex-wrap: wrap;
+    padding: 21px;
+    margin-top: 11px;
+  }
+  #hero .hero .us .feel--block {
+    left: 28px;
+    top: 462px;
+  }
+  #hero .hero .us .feel--img {
+    margin-left: 23px;
+    margin-top: 29px;
+    width: 90%;
+  }
+  #hero .hero .us .feel--drone__ima {
+    margin: -386px -26px 61px;
+    width: 90%;
+  }
+  #hero .hero .us .feel .felt {
+    margin-top: -159px;
+    margin-left: 242px;
+  }
+  #footer .footer--ter__lin {
+    padding: 23px 19px 2px;
+  }
+  #hero .hero .us .feel .one--block {
+    margin: -5px 24px 130px;
+  }
+  #hero .hero .us .feel .one--block__io {
+    padding-right: 15px;
+  }
+  #hero .hero .us .feel .felt--text {
+    font-size: 11px;
+  }
+  #about .about .win {
+    flex-direction: column;
+  }
+  #about .about .win .Планшеты{
+    padding: 10px;
+  }
+}
+@media (max-width: 425px) {
+  #global .global .are--first {
+    padding-top: 30px;
+  }
+  #global .global {
+    margin: -37px -87px 28px;
+  }
+
+  #wer .wer .market--meet .market--meet__title {
+    padding-left: 4px;
+  }
+}
+@media (max-width: 380px) {
+  #header .menu__btn {
+    right: 54px;
+  }
+  #hero .hero .us .feel--img {
+    margin-left: -9px;
+    margin-top: 2px;
+    width: 90%;
+  }
+  #hero .hero .us .feel--block {
+    left: 24px;
+    top: 459px;
+  }
+  #hero .hero .us .feel--img {
+    margin-left: -8px;
+    margin-top: 1px;
+    width: 90%;
+  }
+  #hero .hero .us .feel .felt--text {
+    font-size: 7px;
+  }
+  #hero .hero .us .feel .felt--title {
+    font-size: 15px;
+  }
+  #hero .hero .us .feel--block {
+    width: 392px;
+    height: 257px;
+  }
+
+  #hero .hero .us .feel .one--block__io {
+    padding-right: 34px;
+  }
+  #about {
+    padding-top: 342px;
+  }
+  #about .about .pin--taps {
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+  #global .global .are--first__err--title {
+    font-size: 18px;
+  }
+  #global .global .are--first__err--text {
+    font-size: 15px;
+  }
+  #global .global .are--first__img {
+    padding-left: 69px;
+  }
+  #hero .hero .us .feel--block {
+    width: 351px;
+    height: 234px;
+    left: 40px;
+    top: 493px;
+  }
+  #hero .hero .us .feel .one--block {
+    margin: 3px 24px 109px;
+  }
+  #hero .hero .us .feel .felt {
+    margin-top: -153px;
+    margin-left: 217px;
+  }
+  #hero .hero .us .feel .felt--title {
+    font-size: 14px;
+  }
+}
+@media (max-width: 370px) {
+  #hero .hero .us .feel--block {
+    width: 330px;
+    height: 227px;
+    left: 29px;
+    top: 488px;
+  }
+  #header .menu__btn {
+    right: 53px;
+  }
+  #hero .hero .us .feel .felt {
+    margin-top: -149px;
+    margin-left: 198px;
+  }
+  #hero .hero .us .pro {
+    padding-top: 74px;
+    padding-left: 30px;
+  }
+}
+@media (max-width: 320px) {
+  #hero .hero .us .feel .one--block {
+    margin: -3px 43px 111px;
+  }
+  #hero .hero .us .feel--block {
+    width: 268px;
+    height: 194px;
+    left: 37px;
+    top: 481px;
+  }
+  #hero .hero .us .feel .felt--title {
+    font-size: 10px;
+  }
+  #hero .hero .us .feel .felt--tit {
+    font-size: 10px;
+  }
+  #hero .hero .us .feel .one--block {
+    margin: -3px 10px 103px;
+  }
+  #hero .hero .us .feel .felt--text {
+    line-height: 8px;
+  }
+  #hero .hero .us .feel .felt {
+    margin-top: -120px;
+    margin-left: 153px;
+  }
+  #hero .hero .us .pro--title {
+    font-size: 34px;
+  }
+  #hero .hero .us .pro--btn__se {
+    font-size: 12px;
+    width: 151px;
+    height: 43px;
+  }
+  #about {
+    padding-top: 301px;
+  }
+  #global .global {
+    padding-left: 87px;
+  }
+  #global .global .are--first__err--title {
+    font-size: 23px;
+  }
+  #global .global .are--first__err--title {
+    font-size: 15px;
+    padding-top: 7px;
+    padding-left: 142px;
+  }
+  #global .global .are--first__img {
+    padding-left: 39px;
+    margin-top: 47px;
+  }
+  #header .menu__btn {
+    right: 21px;
+  }
+  #hero .hero .us .feel--block {
+    top: 525px;
+  }
+}
